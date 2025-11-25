@@ -12,5 +12,5 @@ PAYEER_API_KEY = "PUT_PAYEER_KEY"
 PAYEER_ACCOUNT = "P1135268346"
 
 # Database
-MONGO_URI = "mongodb://localhost:27017"
-DB_NAME = "adclickbot"
+MONGO_URI = "mongodb+srv://bilalbbh106_db_user:uCAgC7JY4YXLn6vT@cluster0.mq8hbfh.mongodb.net/?appName=Cluster0"
+DB_NAME = "bilalbbh106_db_user"
