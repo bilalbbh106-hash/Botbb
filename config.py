@@ -1,0 +1,16 @@
+# === config.py ===
+
+TELEGRAM_BOT_TOKEN = "PUT_YOUR_BOT_TOKEN"
+ADMIN_ID = 123456789
+
+# Binance
+BINANCE_API_KEY = "PUT_BINANCE_KEY"
+BINANCE_SECRET = "PUT_BINANCE_SECRET"
+
+# Payeer
+PAYEER_API_KEY = "PUT_PAYEER_KEY"
+PAYEER_ACCOUNT = "P1234567"
+
+# Database
+MONGO_URI = "mongodb://localhost:27017"
+DB_NAME = "adclickbot"
